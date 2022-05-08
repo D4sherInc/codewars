@@ -1,3 +1,4 @@
+// https://www.codewars.com/kata/5592e3bd57b64d00f3000047/train/java
 public class ASum {
     public static long findNb(long m) {
         int n = 0;
