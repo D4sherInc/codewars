@@ -23,7 +23,7 @@ public class ASumTest {
     }
     @Test
     public void test5() {
-        assertEquals(55100, ASum.testFailed(40539911473216L));
+        assertEquals(54263, ASum.findNb(2167560449450128656L));
     }
 
 }
