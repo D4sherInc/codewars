@@ -9,7 +9,6 @@ public class DigPow {
             p++;
         }
 
-        if (sum % n == 0) return sum / n;
-        return -1;
+        return (sum % n == 0) ? sum / n : -1;
     }
 }
