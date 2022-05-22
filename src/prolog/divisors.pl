@@ -1,0 +1,1 @@
+divisors(Number, Result) :- Result is 0.
